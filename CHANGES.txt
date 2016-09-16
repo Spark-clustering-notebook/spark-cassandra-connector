@@ -1,3 +1,5 @@
+ * Refactor usages of SQLContext so that SparkSession is used instead (SPARKC-400)
+
 2.0.0 M3
  * Includes all patches up to 1.6.2
 
